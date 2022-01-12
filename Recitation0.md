@@ -4,7 +4,7 @@ Please follow the directions below EXACTLY to complete this recitation successfu
 
 1. If you have not done so, head over to https://github.com and sign up for an account.  Please **USE YOUR DESU EMAIL ACCOUNT** when signing up for the account.<p/>
 2. At this point, you should have a recent version of Python installed.
-3. You will next need to accept the assignment in Github classroom and link it to your Github account.  Click on <a href="https://classroom.github.com/a/fqZaNIBP">https://classroom.github.com/a/fqZaNIBP</a>.  <p/>
+3. You will next need to accept the assignment in Github classroom and link it to your Github account.  Click on <a href="https://classroom.github.com/a/XLR34Otw">https://classroom.github.com/a/XLR34Otw</a>.  <p/>
 5. Find your name in the list and select it.  IT IS IMPORTANT THAT YOU SELECT YOUR NAME FROM THE LIST!!!!!<p/>
 6. Accept the assignment and wait a minute before refreshing the page.  You should now have a link to your own private repository that contains the assignment.<p/>
 7. Click the link shown on the page.  Should you need the link in the future, simply click on the exercise link provided above to come back to this page.<p><image src="./images/step7.png" height="300"><p/>
