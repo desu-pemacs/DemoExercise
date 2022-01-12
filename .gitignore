@@ -1,0 +1,8 @@
+# Project exclude paths
+/ven/
+/.idea/
+/.git/
+/__pycache__/
+/.pytest_cache/
+solution*
+.DS_Store
